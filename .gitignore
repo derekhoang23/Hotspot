@@ -11,3 +11,4 @@ pids
 
 ## NPM ##
 node_modules/
+compiled/
