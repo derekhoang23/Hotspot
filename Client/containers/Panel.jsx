@@ -4,8 +4,10 @@ import CollectionModel from '../component/CollectionModel';
 
 class Panel extends React.Component {
   renderRestaurant() {
-    const restaurantName = 'Pizza my heeart';
+    const restaurantName = 'Pizza my heart';
     const rating = 'good';
+    const address = '123 Polk Street San Francisco, CA ';
+    const phoneNumber = '415-665-3457';
     const latitude = '59.5848';
     const longitude = '80.0384';
     const type = 'American';
